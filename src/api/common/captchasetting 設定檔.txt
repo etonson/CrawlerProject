@@ -1,0 +1,6 @@
+<captcha>
+   <hy weight="1" desc="火眼答题" apicode="K9Ukky39Hy2vYoTM" timeout="30" defaultdati="88" serverurl="http://dt1.hyocr.com:8080,http://dt2.hyocr.com:8080" />
+   <cap91 weight="2" desc="91打码" apicode="g1yGuFeZOPdxZvlf" timeout="30" defaultdati="1007" serverurl="http://dt1.91yzm.com:8080,http://dt2.91yzm.com:8080" />
+   <cjy weight="5" desc="超级鹰" username="testagent2020" password="@Abcd1234" timeout="30" defaultcodetype="1902" softid="910349" softkey="b5e439d97e34fa68c502a61b81d2fc07" />
+   <deathbycaptcha weight="2" desc="deathbycaptcha" username="testagent2020" password="@Abcd1234" />
+</captcha>
